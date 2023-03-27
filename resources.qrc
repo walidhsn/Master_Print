@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>sheet/darkorange.qss</file>
+        <file>App_LOGO.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>office-modular-workspace.jpg</file>
+        <file>arabic.qm</file>
+        <file>english.qm</file>
+        <file>picture/App_LOGO.ico</file>
+        <file>picture/App_LOGO.png</file>
+    </qresource>
+</RCC>
